@@ -1,0 +1,16 @@
+"use strict";
+var str = 'Vane';
+console.log(str);
+console.log(typeof str);
+var str1 = 'Vanes';
+console.log(str1);
+console.log(typeof str1);
+var str2 = '';
+var str3 = '';
+var empName = 'Vane';
+var empDept = 'Software';
+var output = empName + '在' + empDept + '工作';
+var output1 = empName + "\u5728" + empDept + "\u5DE5\u4F5C";
+console.log(output);
+console.log(output1);
+var str4 = '123';
