@@ -41,4 +41,4 @@ function getUser(name: string, age?: any): any {
 	}
 }
 
-console.log(getUser(true));
+console.log(getUser("true"));

@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "newTitle",
+      "author": "newAuthor",
+      "id": 1
+    },
+    {
+      "title": "newTitle-1",
+      "author": "newAuthor-1",
+      "id": 2
+    }
+  ]
+}
