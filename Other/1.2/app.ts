@@ -67,8 +67,9 @@ class Ajax extends TsAjax {
 
 				if (xhr.readyState === 4 && (xhr.status === 200 || xhr.status === 201)) {
 					result = JSON.parse(data);
-
+					console.log(result);
 					return resolve(result);
+
 				}
 			};
 		});
