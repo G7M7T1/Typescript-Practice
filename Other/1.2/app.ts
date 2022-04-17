@@ -69,7 +69,6 @@ class Ajax extends TsAjax {
 					result = JSON.parse(data);
 					console.log(result);
 					return resolve(result);
-
 				}
 			};
 		});

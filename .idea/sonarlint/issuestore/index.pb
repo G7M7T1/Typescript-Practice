@@ -25,5 +25,3 @@ B
 Class/12/app.ts,9\e\9e83a1a75d7b3582e8a8b736d8810981eeff638a
 @
 Other/1.1/app.ts,9\7\9743714d5a1a54db6e52b83ee8db93a4638219af
-@
-Other/1.2/app.ts,0\d\0db442ed57af28d69da044c6a34969b9997b3944
