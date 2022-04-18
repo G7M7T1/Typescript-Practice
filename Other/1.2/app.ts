@@ -3,6 +3,7 @@ type: post put delete get
 url: 请求地址
 data?: 参数
 dataType: json
+success: 成功回调
 */
 
 interface IAjaxConfig {
