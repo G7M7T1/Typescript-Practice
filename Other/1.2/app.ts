@@ -27,6 +27,7 @@ class Ajax extends TsAjax {
 			data,
 			url,
 			dataType: 'json',
+
 		});
 	}
 	_put(url: string, data?: string | undefined) {
@@ -53,6 +54,7 @@ class Ajax extends TsAjax {
 			dataType: 'json',
 		});
 	}
+
 	private doAjax(config: IAjaxConfig): any {
 		return new Promise<any>((resolve: any, reject: any) => {
 			let result = '';

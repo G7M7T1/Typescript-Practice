@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^6.2.0",
+    "@types/faker": "^5.5.9",
+    "faker": "^5.5.3"
+  }
+}
