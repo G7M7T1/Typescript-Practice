@@ -47,7 +47,21 @@ C
 .gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
 ?
 Sort/.gitignore,9\c\9cf287bbb17ac9f09016106ce6a01151caf38a72
-A
-Sort/package.json,5\7\57862c11d6efd54f62b847b2b04ca79c601aab89
 B
 Sort/tsconfig.json,4\b\4b303145de263e026f04c3d96e391422a7c36b1a
+Q
+!Other/4.5/CharactersCollection.ts,0\5\05b76669f2fea391725e3306417166bff3f7d37c
+B
+Other/4.5/index.ts,c\9\c968892fed9b9c873d85cada789a046c25505446
+F
+Sort/src/LinkedList.ts,1\7\178ab422226001548943ce6860c0543f4f7249d5
+P
+ Sort/src/CharactersCollection.ts,c\a\cabfad3da5fc82a4a6043718a51042003789fc6f
+A
+Sort/src/index.ts,4\c\4c5d9bff783b5188e3807ce0baf85317585fdde6
+M
+Sort/src/NumbersCollection.ts,f\c\fca0ad8b2cfe98f6e49a3f92074adc869b274eef
+@
+Stats/.gitignore,f\c\fc34447fef555d663946ce51f0dc57838d2b2805
+B
+Sort/src/Sorter.ts,0\6\06a63ea4ddb1bbed01f944be31e094978669b6ab
