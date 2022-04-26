@@ -45,9 +45,9 @@ C
 Sort/build/index.js,0\8\08e3bf596db08b98861dbbc57d50c8b016475978
 >
 .gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
-B
-Sort/tsconfig.json,4\b\4b303145de263e026f04c3d96e391422a7c36b1a
 ?
 Sort/.gitignore,9\c\9cf287bbb17ac9f09016106ce6a01151caf38a72
 A
 Sort/package.json,5\7\57862c11d6efd54f62b847b2b04ca79c601aab89
+B
+Sort/tsconfig.json,4\b\4b303145de263e026f04c3d96e391422a7c36b1a
