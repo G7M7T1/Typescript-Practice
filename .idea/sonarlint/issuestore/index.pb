@@ -65,3 +65,15 @@ M
 Stats/.gitignore,f\c\fc34447fef555d663946ce51f0dc57838d2b2805
 B
 Sort/src/Sorter.ts,0\6\06a63ea4ddb1bbed01f944be31e094978669b6ab
+A
+Sort/package.json,5\7\57862c11d6efd54f62b847b2b04ca79c601aab89
+B
+Stats/package.json,9\5\95cf81ec5c2ae510f762be564b36d00e8caf8f05
+D
+Stats/build/index.js,c\e\cec0b65fdd7cf7f53429a09a46da2ba971817836
+C
+Stats/tsconfig.json,2\d\2d8ba3c19b551dd48a7e8bcaf1b18fa7a8f7ffb2
+B
+Stats/football.csv,3\b\3b1d318a875592a934203983e2cc909023c59249
+B
+Stats/src/index.ts,7\4\748ff10d7dbafebff14083df723f79a4dcfb8155
