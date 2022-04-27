@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="D:\Download\football.csv">
+        <entry key="\Stats\football.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
